@@ -1,3 +1,23 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=DocMind&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Multi-modal%20RAG%20%C2%B7%20cited%20answers%20from%20any%20PDF&descSize=16&descAlignY=60&animation=fadeIn" alt="banner" />
+
+<br/>
+
+[![Stars](https://img.shields.io/github/stars/jilan111/DocMind?style=for-the-badge&color=0d1117&labelColor=161b22&logo=star)](https://github.com/jilan111/DocMind/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/jilan111/DocMind?style=for-the-badge&color=0d1117&labelColor=161b22&logo=git)](https://github.com/jilan111/DocMind/commits)
+[![License: MIT](https://img.shields.io/badge/License-MIT-0d1117?style=for-the-badge&labelColor=161b22)](LICENSE)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-005CED?style=for-the-badge&logo=meta&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/sentence--transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/LLM-OpenAI%20%2F%20Groq%20%2F%20Ollama-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+---
+
 # DocMind — Multi-Modal RAG QA System
 
 Upload any PDF. Ask anything. Get answers with page citations.
